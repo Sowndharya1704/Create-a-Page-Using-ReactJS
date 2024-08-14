@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sowndharya1704/Create-a-Page-Using-ReactJS.git/static/css/main.1ed6300e.css",
+    "main.js": "/Sowndharya1704/Create-a-Page-Using-ReactJS.git/static/js/main.2702f062.js",
+    "index.html": "/Sowndharya1704/Create-a-Page-Using-ReactJS.git/index.html",
+    "main.1ed6300e.css.map": "/Sowndharya1704/Create-a-Page-Using-ReactJS.git/static/css/main.1ed6300e.css.map",
+    "main.2702f062.js.map": "/Sowndharya1704/Create-a-Page-Using-ReactJS.git/static/js/main.2702f062.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed6300e.css",
+    "static/js/main.2702f062.js"
+  ]
+}
