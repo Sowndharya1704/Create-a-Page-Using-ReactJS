@@ -1,0 +1,15 @@
+td:hover {
+    background-color: coral;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    text-align: center;
+    margin-left: 30%;
+
+}
+.t{
+    background-color: burlywood;
+    text-align: center;
+}
